@@ -4,19 +4,12 @@
  * and open the template in the editor.
  */
 package mainpackage;
-import listapackage.ListaClass;
+import listapackage.*;
 /**
  *
  * @author Romero
  */
 public class MainClass {
-    ListaClass ob = new ListaClass();
-     
-       
-        
-        
-       
-          
-    
+    ListaClass obj = new ListaClass();  
     
 }
